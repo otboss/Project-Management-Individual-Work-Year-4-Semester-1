@@ -3,7 +3,7 @@
 	<thead>
 		<tr>
 			<td>
-				<span>Tasks</span>
+				<span>To-Do</span>
 			</td>
 			<td>
 				<span>Done</span>
