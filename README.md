@@ -56,7 +56,7 @@
 				<span>Ch05Ex06</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>	
 		<tr>
