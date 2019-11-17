@@ -98,6 +98,30 @@
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch06Ex07</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch07Ex01</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch07Ex07</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
 		</tr>		
 	</tbody>
 </table>
