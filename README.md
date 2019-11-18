@@ -146,30 +146,6 @@
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
-		</tr>	
-		<tr>
-			<td>
-				<span>Ch08Tsk01(PDQ)</span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>	
-		<tr>
-			<td>
-				<span>Ch08Tsk02(PDQ)</span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>	
-		<tr>
-			<td>
-				<span>Ch08Tsk03(PDQ)</span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>		
+		</tr>			
 	</tbody>
 </table>
