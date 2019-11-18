@@ -122,6 +122,54 @@
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch08Ex02</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>		
+		<tr>
+			<td>
+				<span>Ch08Ex03</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>		
+		<tr>
+			<td>
+				<span>Ch08Ex04</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch08Tsk01</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch08Tsk02</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch08Tsk03</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
 		</tr>		
 	</tbody>
 </table>
