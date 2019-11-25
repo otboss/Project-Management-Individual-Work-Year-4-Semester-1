@@ -146,6 +146,22 @@
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch09Ex07</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch09Ex09</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
 		</tr>			
 	</tbody>
 </table>
