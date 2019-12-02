@@ -162,6 +162,38 @@
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch11Ex03</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch11Ex04</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch11Ex05</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>	
+		<tr>
+			<td>
+				<span>Ch11Ex06</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
 		</tr>			
 	</tbody>
 </table>
