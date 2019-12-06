@@ -35,6 +35,14 @@
 				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
+                <tr>
+                        <td>
+                                <span>Ch04Ex01</span>
+                        </td>
+                        <td>
+                                <!--<center><span>&#10004;</span></center>-->
+                        </td>
+                </tr>
 		<tr>
 			<td>
 				<span>Ch04Ex02</span>
@@ -51,6 +59,22 @@
 				<center><span>&#10004;</span></center>
 			</td>
 		</tr>		
+                <tr>
+                        <td>
+                                <span>Ch04Ex04</span>
+                        </td>
+                        <td>
+                                <!--<center><span>&#10004;</span></center>-->
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                                <span>Ch04Ex05</span>
+                        </td>
+                        <td>
+                                <!--<center><span>&#10004;</span></center>-->
+                        </td>
+                </tr>
 		<tr>
 			<td>
 				<span>Ch05Ex06</span>
